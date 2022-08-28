@@ -1,0 +1,158 @@
+body {
+  color: #40514E;
+  background-color: #F9F5EB;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  line-height: 2;
+}
+
+h1 {
+  color: #002B5B;
+  font-family: 'Kristi', cursive;
+  font-size: 5.62rem;
+  line-height: normal;
+  margin: 0 auto 0 auto;
+}
+
+h2 {
+  color: #002B5B;
+  font-family: 'Courgette', cursive;
+  font-size: 1.575rem;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3 {
+  color: #11999E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: gray;
+  border-width: 10px;
+  width: 7.5%;
+  margin: 80px auto;
+}
+
+
+.topcloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 200px;
+  bottom: 250px;
+}
+.mountain-pic{
+  height:200px;
+  width:400px
+}
+.topcontainer {
+  background-color: #F7ECDE;
+  position: relative;
+  padding: 100px;
+}
+
+.intro {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.a {
+  width: 20%;
+}
+
+.design {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.cube {
+  width: 20%;
+  float: right;
+  margin-right: 50px;
+}
+
+.space {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.basketball {
+  width: 20%;
+  float: right;
+  margin-right: 50px;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  width: 80%
+}
+
+.hobby-row {
+  line-height: 2;
+  margin: 80px auto 80px auto;
+  text-align: left;
+  width: 80%;
+}
+
+
+.bottom-container {
+  background-color: #11999E;
+  margin: 50px auto 0 auto;
+  padding: 50px 0 20px;
+  line-height: 2;
+}
+
+.footer-link {
+  color: #002B5B;
+  text-decoration: none;
+  margin: auto 20px;
+}
+.footer-link:hover{
+  color: white;
+    margin: auto 20px;
+}
+.copyrights {
+  color: white;
+  font-size: 0.6rem;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
